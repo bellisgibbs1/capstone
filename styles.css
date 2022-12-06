@@ -1,6 +1,9 @@
 body{
     background-color: Snow;
-  }
+        margin: 0;
+        padding: 10px;
+    }
+
   
   h1{
     font-family: sans-serif;
